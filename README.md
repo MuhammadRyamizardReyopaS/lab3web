@@ -14,31 +14,31 @@ OUTPUT + CODE
 
 1. Buat order list
 
-![gbr2](foto/gbr2.png)
+![foto1.PNG](foto1.PNG)
 
 2. Buat unordered list
 
-![gbr3](foto/gbr3.png)
+![foto2.PNG](foto2.PNG)
 
 3. Buat Description list
 
-![gbr4](foto/gbr4.png)
+![foto3.PNG](foto3.PNG)
 
 4. Membuat Tabel
 
-![gbr5](foto/gbr5.png)
+![foto4.PNG](foto4.PNG)
 
 5. menggabungkan sel data
 
-![gbr6](foto/gbr6.png)
+![foto5.PNG](foto5.PNG)
 
 6. Buat Form
 
-![gbr7](foto/gbr7.png)
+![foto6.PNG](foto6.PNG)
 
 7. Buat style pada form
 
-![gbr8](foto/gbr8.png)
+![foto7.PNG](foto7.PNG)
 
 ## Validasi File html
 
