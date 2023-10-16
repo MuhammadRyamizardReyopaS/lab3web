@@ -8,7 +8,8 @@ Nama : Muhammad Ryamziard R S
 ```
 OUTPUT + CODE
 ```
-![foto1.PNG](foto1.PNG)
+
+![foto8.PNG](foto8.PNG)
 
 ## Praktikum 3
 
