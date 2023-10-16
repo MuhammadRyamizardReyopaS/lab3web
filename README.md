@@ -45,6 +45,6 @@ OUTPUT + CODE
 
 Validasi file html
 
-![gbr9](foto/gbr9.png)
+![foto9.PNG](foto9.PNG)
 
 #### Sekian Terimakasih
